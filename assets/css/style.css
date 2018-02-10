@@ -1,0 +1,140 @@
+
+    img{
+        max-width: 100%;
+      }
+    
+      .spaced-row{
+        margin-top: 15px;
+      }
+        
+    body {
+        background-image: url("../images/eight_horns.png");
+        font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+        }
+
+    .btn {
+        background-color: #4aaaa5;
+        color: #ffffff;
+        border-color: none;
+        padding: 10px 32px;
+        text-align: center;
+        display: inline-block;     
+        }
+    
+    .navbar-brand h1 {
+        color: #ffffff;
+        background-color: #4aaaa5;
+        padding: 20px;
+        margin-top: 20px;
+        }
+    .container {
+        padding-bottom: 40px;
+        padding-top: 20px;
+        }
+
+    
+    h1, h2, h3 {
+        font-family: Georgia, times, 'Times New Roman', serif;
+        color: #4aaaa5;
+        padding-bottom: 20px;
+        padding-top: 10px;    
+        }
+
+    h4 {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: #ffffff;
+        width: 287px;
+        height: 50px;
+        padding-top: 5px;
+        text-align: center;
+        background-color: #4aaaa5;
+        position: absolute;
+        bottom: 10px;
+        font-weight: 300;
+
+        }
+
+    .connect_me {
+        padding-left: 60px;
+        padding-top: 10px;
+        border-bottom: 1px solid #cccccc;    
+        }
+    
+
+    .icons {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 80px;
+        }
+   
+    
+    nav {
+        position: fixed;
+        width: 100%;
+        height: 80px;
+        background-color: #ffffff;
+        border-bottom: 3px solid #cccccc;
+        }
+    
+    .nav_name {
+        float: left;
+        background-color: #4aaaa5;
+        color: #ffffff;
+        height: 30px;
+        padding: 25px;
+        margin-left: 100px;
+        }
+   
+    form {
+        font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+        color: #777777;
+        margin-top: 10px;
+        margin-left: 20px;
+        }
+
+    .col-6 img {
+        width: 350px;
+        height: 200px;
+        padding-top: 10px;       
+        }
+
+    .bio-pic {
+        margin-top: 1.5px;
+        margin-left: 5px;
+        width: 250px;
+        height: 200px;
+        float: left;
+        padding-right: 20px;
+        }
+    
+                
+    form {
+        font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+        color: #777777;
+        margin-top: 10px;
+        margin-left: 20px;
+        }
+    
+    .col-6 img {
+        width: 350px;
+        height: 200px;
+        padding-top: 10px;       
+        }
+        
+        
+    .footer {
+        text-align: center;	
+        background: grey;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        border-top: 8px solid #26ad9f;        
+        }
+
+    @media screen and (max-width: 980px){
+    }
+
+    @media screen and (max-width: 768px) {        
+    }
+    
+    @media screen and (max-width: 640px) {        
+    }
